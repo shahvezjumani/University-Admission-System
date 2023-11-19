@@ -1,2 +1,4 @@
-package Class_Files;public class UniversityAdmissionSystem {
+package Class_Files;
+
+public class UniversityAdmissionSystem {
 }
