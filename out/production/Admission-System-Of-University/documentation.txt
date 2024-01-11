@@ -1,0 +1,26 @@
+This project is of "Admission System of University"
+------ Features which are included --------
+1- Insert Students record
+	by using linked lists also use merge sort or any sorting technique to sort the list.
+	Also categories by departments and over all
+2- Interview process
+	by using queue, insert students during admission in queue
+3 - Search Students record
+	by using BST (Binary Search Tree) for fast retrievel use it and insert students in bst based on their id's during
+	insert students record phase
+
+
+"University Admission Management System"
+
+------ Key Features ------
+1- Student Record Management
+
+Utilizes linked lists for efficient storage and employs sorting techniques like merge sort to organize records.
+Categorizes records by departments and maintains an overall sorted list.
+2- Interview Process Management
+
+Implements a queue system for handling students during the admission interview process.
+3- Fast Record Retrieval
+
+Employs a Binary Search Tree (BST) for swift and optimized student record searches.
+Utilizes BST insertion based on unique student IDs during the initial record entry phase.
